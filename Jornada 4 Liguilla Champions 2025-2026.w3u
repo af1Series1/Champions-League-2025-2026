@@ -8,8 +8,35 @@
 "stations":
 	[
   		{
+		"name": "Liverpool VS Real Madrid",
+		"info":"[04-11-2025]",
+		"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"https://filemoon.to/d/ooq5km2lip8p/Champions_Liverpool_VS_Real_Madrid_041125.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "Atletico Madrid VS Union",
+		"info":"[04-11-2025]",
+		"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"https://filemoon.to/d/x6qyok8k9khd/Champions_Atletico_VS_Union_SG_041125.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "Brujas VS FC Barcelona",
+		"info":"[05-11-2025]",
+		"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"https://filemoon.to/d/9o9t0uix32y5/Champions_Brujas_VS_FC_Barcelona_051125.mkv",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
 		"name": "",
-		"info":"[-10-2025]",
+		"info":"[05-11-2025]",
 		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -18,34 +45,7 @@
 		},
   		{
 		"name": "",
-		"info":"[-10-2025]",
-		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
-		"url":"",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"isHost":"true",
-		"online":"true"
-		},
-  		{
-		"name": "",
-		"info":"[-10-2025]",
-		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
-		"url":"",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"isHost":"true",
-		"online":"true"
-		},
-  		{
-		"name": "",
-		"info":"[-10-2025]",
-		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
-		"url":"",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"isHost":"true",
-		"online":"true"
-		},
-  		{
-		"name": "",
-		"info":"[-10-2025]",
+		"info":"[05-11-2025]",
 		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
