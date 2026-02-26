@@ -59,11 +59,45 @@
 },
 {
 "name": "Jornada 8 Liguilla UEFA Champions League 2025-2026",
+"image": "https://i.postimg.cc/nzdZ3pts/Logo-Champions-League.jpg",
+"url": "https://cutt.ly/ZtW91yOv",
+"info":"",
+"import": false
+},
+{
+"name": "Play Off Liguilla UEFA Champions League 2025-2026",
+"image": "ttps://i.postimg.cc/nzdZ3pts/Logo-Champions-League.jpg",
+"url": "",
+"info":"",
+"import": false
+},
+{
+"name": "Octavos Final UEFA Champions League 2025-2026",
+"image": "ttps://i.postimg.cc/nzdZ3pts/Logo-Champions-League.jpg",
+"url": "",
+"info":"",
+"import": false
+},
+{
+"name": "Cuartos Final UEFA Champions League 2025-2026",
+"image": "ttps://i.postimg.cc/nzdZ3pts/Logo-Champions-League.jpg",
+"url": "",
+"info":"",
+"import": false
+},
+{
+"name": "Semifinales UEFA Champions League 2025-2026",
+"image": "ttps://i.postimg.cc/nzdZ3pts/Logo-Champions-League.jpg",
+"url": "",
+"info":"",
+"import": false
+},
+{
+"name": "Final UEFA Champions League 2025-2026",
 "image": "ttps://i.postimg.cc/nzdZ3pts/Logo-Champions-League.jpg",
 "url": "",
 "info":"",
 "import": false
 }
-
 ]
 }
