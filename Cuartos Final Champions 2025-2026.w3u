@@ -8,8 +8,8 @@
 "stations":
 	[
   		{
-		"name": "",
-		"info":"[-10-2025]",
+		"name": "Paris Saint-Germain VS Liverpool",
+		"info":"[08-04-2026][IDA]",
 		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -17,8 +17,8 @@
 		"online":"true"
 		},
   		{
-		"name": "",
-		"info":"[-10-2025]",
+		"name": "Real Madrid VS Bayern München",
+		"info":"[08-04-2026][IDA]",
 		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -26,8 +26,8 @@
 		"online":"true"
 		},
   		{
-		"name": "",
-		"info":"[-10-2025]",
+		"name": "FC Barcelona VS Atlético de Madrid",
+		"info":"[08-04-2026][IDA]",
 		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -35,8 +35,8 @@
 		"online":"true"
 		},
   		{
-		"name": "",
-		"info":"[-10-2025]",
+		"name": "Sporting CP VS Arsenal",
+		"info":"[08-04-2026][IDA]",
 		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -44,8 +44,35 @@
 		"online":"true"
 		},
   		{
-		"name": "",
-		"info":"[-10-2025]",
+		"name": "Liverpool VS Paris Saint-Germain",
+		"info":"[14-04-2026][VUELTA]",
+		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "Bayern München VS Real Madrid",
+		"info":"[14-04-2026][VUELTA]",
+		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "Atlético de Madrid VS FC Barcelona",
+		"info":"[14-04-2026][VUELTA]",
+		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
+		"url":"",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"isHost":"true",
+		"online":"true"
+		},
+  		{
+		"name": "Arsenal VS Sporting CP",
+		"info":"[14-04-2026][VUELTA]",
 		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
