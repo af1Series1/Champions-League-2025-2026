@@ -13,8 +13,11 @@
 		"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"https://bysefujedu.com/e/7ra8tyana3i6/2026-04-28-uefa-champions-league-2025-2026-semifinal-ida-paris-saint-germain-vs-bayern-de-m%C3%BAnich-web-dl-1080p-50fps-hdr-2-audios",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
 		"isHost":"true",
-		"online":"true"
+		"online":"true",
+		"import": false
 		},
   		{
 		"name": "Atletico de Madrid VS Arsenal",
@@ -22,8 +25,11 @@
 		"image": "ttps://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"https://bysefujedu.com/e/wty2ksptk29c/2026-04-29-uefa-champions-league-2025-2026-semifinal-ida-atl%C3%A9tico-de-madrid-vs-arsenal-web-dl-1080p-50fps-hdr-5-audios",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
 		"isHost":"true",
-		"online":"true"
+		"online":"true",
+		"import": false
 		},
   		{
 		"name": "Arsenal VS Atletico de Madrid",
@@ -31,8 +37,11 @@
 		"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"https://bysefujedu.com/e/m3q6ivruafo5/2026-05-05-uefa-champions-league-2025-2026-semifinal-vuelta-arsenal-vs-atl%C3%A9tico-de-madrid-web-dl-1080p-50fps-hdr-5-audios",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
 		"isHost":"true",
-		"online":"true"
+		"online":"true",
+		"import": false
 		},
   		{
 		"name": "Bayern Munich VS Paris Saint Germain",
@@ -40,8 +49,11 @@
 		"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"https://bysefujedu.com/e/3pjk6d1vcdc6/bayer-vs-psg-060526",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
 		"isHost":"true",
-		"online":"true"
+		"online":"true",
+		"import": false
 		},
   		{
 		"name": "Paris Saint Germain VS Arsenal",
@@ -49,8 +61,11 @@
 		"image": "https://i.postimg.cc/C1bGGdrQ/Champions-League-2025-2026.webp",
 		"url":"https://bysefujedu.com/e/7h0sgmnlpwqe/2026-05-30-uefa-champions-league-2025-2026-final-paris-saint-germain-psg-vs-arsenal-web-dl-1080p-50fps-hdr-2-audios",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
 		"isHost":"true",
-		"online":"true"
+		"online":"true",
+		"import": false
 		}
 	]
 }
